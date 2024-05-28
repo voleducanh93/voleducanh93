@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>👋 Xin chào! Mình là Đức Anh, một lập trình viên đam mê phát triển phần mềm.<br><br>🔭 Hiện tại: Mình đang làm việc với các dự án sử dụng Java và Spring Boot.<br><br>💡 Kỹ năng: Java, C, C#, Spring Boot, ReactJS.<br><br>🌱 Học hỏi: Mình đang tìm hiểu thêm về DevOps và Machine Learning.<br><br>📫 Liên hệ: Hãy kết nối với mình qua : email, LinkedIn.
+About Me<br>👋 Xin chào! Mình là Đức Anh, một lập trình viên đam mê phát triển phần mềm.<br><br>🔭 Hiện tại: Mình đang làm việc với các dự án sử dụng Java và Spring Boot.<br><br>💡 Kỹ năng: Java, C, C#, Spring Boot, ReactJS.<br><br>🌱 Học hỏi: Mình đang tìm hiểu thêm về DevOps và Machine Learning.<br><br>📫 Liên hệ: Hãy kết nối với mình qua : LinkedIn.
 
 
 ## 🌐 Socials:
