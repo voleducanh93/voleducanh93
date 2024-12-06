@@ -10,7 +10,7 @@ I am passionate about coding and constantly exploring new technologies to enhanc
 
 ### Languages
 - **Java**: Proficient with Spring Boot framework for building robust applications.
-- **C#**: C#: Skilled in both .NET for backend API development and WPF for crafting intuitive and visually appealing desktop applications. A well-rounded developer capable of delivering powerful solutions across platforms.
+- **C#**: Skilled in both .NET for backend API development and WPF for crafting intuitive and visually appealing desktop applications. A well-rounded developer capable of delivering powerful solutions across platforms.
 
 ### Databases
 - **SQL Server**: Skilled in database design, querying, and optimization.
