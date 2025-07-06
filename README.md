@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I am a third-year Software Engineering student with a strong foundation in backend development and a keen interest in frontend technologies.
+I am a Software Engineering student with a strong foundation in backend development and a keen interest in frontend technologies.
 
 ## About Me
 
